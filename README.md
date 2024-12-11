@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/article-preview-component---html-scss-javascript-fzw5Qib7vW)
+- [Live site URL](https://jeremdevx.github.io/fm-challenge-article-preview-component/)
 
 ## My process
 
